@@ -1,3 +1,2 @@
-este es el archivo 3
-esta es otra del 3
-esta es el 3
+este es un ejemplo de checkout
+checkout
