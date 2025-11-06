@@ -1,2 +1,1 @@
-este es un ejemplo de checkout
-checkout
+archivo 3 de la rama de nadia
